@@ -34,8 +34,7 @@ __negrita__
 - [ ] Tarea incompleta
 - [x] Tarea Completada
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Miguel-dh/Miguel-dh)
-
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Miguel-dh/Miguel-dh?link=https%3A%2F%2Fgithub.com%2FMiguel-dh%2FMiguel-dh%3Ftab%3Dreadme-ov-file)
 <!--
 **Miguel-dh/Miguel-dh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

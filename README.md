@@ -31,8 +31,8 @@ __negrita__
 | --------- | --------- | --------- |
 | Dato 1    | Dato 2    | Dato 3    |
 
--[ ] tarea incompleta
--[X] Tar Completada
+- [ ] Tarea incompleta
+- [x] Tarea Completada
 
 <!--
 **Miguel-dh/Miguel-dh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bienvenido+A+Mi+Perfil+Soy+Miguel-dh;Mondongo" />
+<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bienvenido+A+Mi+Perfil+Soy+Miguel-dh" />
 </p>
 
 # Stats

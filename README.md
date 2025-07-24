@@ -5,13 +5,13 @@
 ___
 
 # Stats
-[![Scr44gr stats](https://github-readme-stats.vercel.app/api?username=Miguel-dh&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Scr44gr stats](https://github-readme-stats.vercel.app/api?username=DazaiHollow&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
 
 # Languages Most Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-dh&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DazaiHollow&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
 

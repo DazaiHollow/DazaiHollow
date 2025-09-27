@@ -19,21 +19,16 @@ ___
 
 ___
 
-# Github Stats
-[![Scr44gr stats](https://github-readme-stats.vercel.app/api?username=DazaiHollow&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+# <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+<div align=center>
 
- <div align=center>
-
-![](https://github-readme-stats.vercel.app/api?username=Abdalrahman-Alhamod&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+![](https://github-readme-stats.vercel.app/api?username=DazaihHollow&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
 <br>
+  
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DazaihHollow&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DazaihHollow&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-___
-
-# Languages Most Used
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DazaiHollow&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
 
@@ -43,3 +38,13 @@ ___
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+___
+
+<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+
+----
+	
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DazaihHollow&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+	
+</details>

@@ -2,6 +2,10 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
+<div align="center">
+<img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
+</div>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Japonese&pause=1000&color=C800CA&width=435&lines=Muy+Buenas+Soy+Miguel+Amaya;Bienvenidos+A+Mi+Perfil;Estudiante+De+Ingenieria+Informatica;Desarrollador+Web+Full-Stack" alt="Typing SVG" />
 </p>

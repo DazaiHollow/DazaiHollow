@@ -12,7 +12,7 @@ ___
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- Soy un estudiante de Ingeniería en Informática con una gran pasión por el desarrollo backend. Actualmente, me estoy formando en la creación de APIs robustas y servicios web, con el objetivo de evolucionar hacia el desarrollo full-stack.
+- Soy un estudiante de Ingeniería en Informática de la universidad Alejandro De Humboldt, con una gran pasión por el desarrollo backend. Actualmente, me estoy formando en la creación de APIs y servicios web, con el objetivo de evolucionar hacia el desarrollo full-stack.
 - Disfruto del proceso de analizar problemas y desarrollar soluciones tecnológicas mediante la práctica y la experimentación. Creo firmemente en el "prueba y error" como parte esencial del aprendizaje y la mejora continua.
 - Considero que el análisis de problemas y el desarrollo de soluciones, es la naturaleza de la programación.
 <br>

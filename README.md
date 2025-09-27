@@ -22,10 +22,9 @@ ___
 # <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 <div align=center>
 
-![](https://github-readme-stats.vercel.app/api?username=DazaihHollow&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
-  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DazaihHollow&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DazaihHollow&theme=dark&border_radius=5&locale=es)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats-steel-mu.vercel.app/api?username=DazaihHollow&include_all_commits=true&theme=dark&border_radius=5&locale=es)](https://github.com/Rickhersd/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DazaihHollow&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>

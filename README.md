@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&pause=1000&color=C800CA&width=435&lines=Muy+Buenas+Soy+Miguel Amaya;Bienvenido+A+Mi+Perfil;Hello+World" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&pause=1000&color=C800CA&width=435&lines=Muy+Buenas+Soy+Miguel+Amaya;Bienvenido+A+Mi+Perfil;Hello+World" alt="Typing SVG" />
 </p>
 
 ___

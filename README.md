@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://github.com/DazaihHollow/DazaihHollow/blob/main/images/banner.png" 
+       width="100%" 
+       alt="Miguel Amaya - Desarrollador Full-Stack">
+</div>
+
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>

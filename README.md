@@ -34,10 +34,24 @@ ___
 
 # Skills
 
+#### 🔧 Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+#### 🖥️ Frameworks
+![Static Badge](https://img.shields.io/badge/FastAPI-gren?style=for-the-badge&logo=fastapi&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Django-darckgreen?style=for-the-badge&logo=django&logoColor=white)
+![Static Badge](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Nodejs-white?style=for-the-badge&logo=node.js&logoColor=green)
+
+#### 🔧 Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ___
 

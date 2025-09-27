@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/DazaihHollow/DazaihHollow/blob/main/images/banner.png" 
+  <img src="https://github.com/DazaihHollow/DazaihHollow/blob/main/images/banner_1200x500.png" 
        width="100%" 
        alt="Miguel Amaya - Desarrollador Full-Stack">
 </div>

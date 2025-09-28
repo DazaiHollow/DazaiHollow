@@ -63,7 +63,9 @@ ___
 
 <td width="50%" align="center">
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DazaihHollow&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/DazaihHollow">
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DazaihHollow&layout=compact&langs_count=8&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,000F40"/>
+  </a>
 
 </td>
 </tr>

@@ -88,7 +88,6 @@ ___
 ![Static Badge](https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/Django-darckgreen?style=for-the-badge&logo=django&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=blue)
-![Static Badge](https://img.shields.io/badge/Nodejs-white?style=for-the-badge&logo=node.js&logoColor=green)
 
 #### 🔧 Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
